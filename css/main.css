@@ -25,7 +25,8 @@ h1, h2, p, i, .btn, .btn-ghost {
   border-bottom: solid 3px rgba(255, 255, 255, .8);
 }
 
-@media only screen and (min-width: 60em){
+@media only screen and (min-width: 60em) {
+
   .structure {
     border-bottom: solid 0 rgba(255, 255, 255, .8);
     border-right: solid 3px rgba(255, 255, 255, .8);
